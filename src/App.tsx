@@ -13,6 +13,8 @@ const formatObj = (obj: any) => {
 
 const a = function(){}
 
+const b = function(){}
+
 
 // 处理特定键名的键值
 const translateValueMap: Map<any, any> = new Map([
