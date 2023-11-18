@@ -18,8 +18,10 @@ const b = function () { }
 const c = function () { }
 
 const d = function () {
-  let a = null
-  let a = null
+  var a = null
+  var a = null
+  var a = null
+  var a = null
 }
 
 
