@@ -19,14 +19,11 @@ const c = function () { }
 
 const d = function () {
   let a = null
-  let a = null
 }
 
 
 const e = function () { }
 
-
-const e = function(){}
 
 // 处理特定键名的键值
 const translateValueMap: Map<any, any> = new Map([
