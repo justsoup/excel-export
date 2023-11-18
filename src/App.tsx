@@ -11,13 +11,27 @@ const formatObj = (obj: any) => {
   return obj;
 };
 
-const a = function(){}
+const a1 = function(){}
 
-const b = function(){}
+const b2 = function(){}
 
-const c = function(){}
+const c3 = function(){}
 
-const d = function(){}
+const d4 = function(){}
+
+const e5 = function(){
+  // e1
+  // e1
+  // e1
+  // e1
+}
+
+const e = function(){
+  // e1
+  // e1
+  // e1
+  // e1
+}
 
 
 // 处理特定键名的键值
