@@ -19,6 +19,7 @@ const c = function () { }
 
 const d = function () {
   let a = null
+  let a = null
 }
 
 
