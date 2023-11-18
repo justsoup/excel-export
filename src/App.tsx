@@ -25,6 +25,7 @@ const d = function () {
   // bug5
   // bug6
   // bug7
+  // bug8
 }
 
 
